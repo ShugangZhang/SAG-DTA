@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="administrator@211.64.154.68:22">
+    <serverData>
+      <paths name="211.64.154.68">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/home/administrator/.conda/envs/ShugangGraphDTA" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="administrator@211.64.154.233:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="administrator@211.64.154.68:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/administrator/SEAGATE-4T/Shugang/SAG_DTA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

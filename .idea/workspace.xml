@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a9e9af4-274a-4c1d-aba4-dafaf011e110" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="1cf95cb0-8212-4582-8f64-ea027c67a149" />
+  <component name="ProjectId" id="1f2Buuy2h6tuN8Ckvze8z043Gjq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Nutstore\Drug\GraphDTA-master\GraphDTA-master" />
+      <recent name="D:\Nutstore\Drug\GraphDTA-master\GraphDTA-master\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.training_validation_Davis_KIBA">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_with_pretrained_model_BindingDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphDTA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://administrator@211.64.154.68:22/home/administrator/.conda/envs/ShugangSAGPool/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_with_pretrained_model_BindingDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_with_pretrained_model_Human" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphDTA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://administrator@211.64.154.68:22/home/administrator/.conda/envs/ShugangSAGPool/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_with_pretrained_model_Human.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_data_Human" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphDTA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://administrator@211.64.154.68:22/home/administrator/.conda/envs/ShugangSAGPool/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_Human.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_data_bindingDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphDTA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://administrator@211.64.154.68:22/home/administrator/.conda/envs/ShugangSAGPool/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_bindingDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_validation_Davis_KIBA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphDTA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://administrator@211.64.154.68:22/home/administrator/.conda/envs/ShugangSAGPool/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training_validation_Davis_KIBA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="SAG_DTA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.training_validation_Davis_KIBA" />
+        <item itemvalue="Python.predict_with_pretrained_model_BindingDB" />
+        <item itemvalue="Python.prepare_data_bindingDB" />
+        <item itemvalue="Python.predict_with_pretrained_model_Human" />
+        <item itemvalue="Python.prepare_data_Human" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9e9af4-274a-4c1d-aba4-dafaf011e110" name="Default Changelist" comment="" />
+      <created>1595406532267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595406532267</updated>
+      <workItem from="1595406534880" duration="115142000" />
+      <workItem from="1596613199714" duration="18631000" />
+      <workItem from="1596893125903" duration="9753000" />
+      <workItem from="1597560567304" duration="67395000" />
+      <workItem from="1598249891836" duration="1197000" />
+      <workItem from="1598855607112" duration="131430000" />
+      <workItem from="1599542601198" duration="223340000" />
+      <workItem from="1602045584200" duration="198000" />
+      <workItem from="1602335714640" duration="206872000" />
+      <workItem from="1605253104001" duration="18684000" />
+      <workItem from="1607753847958" duration="53979000" />
+      <workItem from="1627969926798" duration="7199000" />
+      <workItem from="1627988709818" duration="576000" />
+      <workItem from="1627989334646" duration="5856000" />
+      <workItem from="1628053732669" duration="94928000" />
+      <workItem from="1628688265602" duration="588000" />
+      <workItem from="1628692341192" duration="2910000" />
+      <workItem from="1629176867762" duration="46445000" />
+      <workItem from="1632194744144" duration="2520000" />
+      <workItem from="1632724238623" duration="2456000" />
+      <workItem from="1632823239050" duration="1818000" />
+      <workItem from="1640487655830" duration="16751000" />
+      <workItem from="1640592771498" duration="1256000" />
+      <workItem from="1640594096343" duration="3609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1851" y="177" key="#Deployment" timestamp="1640596083696">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="251" y="177" key="#Deployment/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640591576727" />
+    <state x="1851" y="177" key="#Deployment/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640596083696" />
+    <state x="392" y="88" key="#Options" timestamp="1632724491589">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Options/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1632724491589" />
+    <state x="2108" y="49" key="#predict_with_pretrained_model_BindingDB" timestamp="1640600825529">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2108" y="49" key="#predict_with_pretrained_model_BindingDB/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640600825529" />
+    <state x="2108" y="49" key="#predict_with_pretrained_model_Human" timestamp="1640596153079">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2108" y="49" key="#predict_with_pretrained_model_Human/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640596153079" />
+    <state x="2108" y="49" key="#prepare_data_Human" timestamp="1640593974844">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2108" y="49" key="#prepare_data_Human/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640593974844" />
+    <state x="2108" y="49" key="#prepare_data_bindingDB" timestamp="1640596217933">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2108" y="49" key="#prepare_data_bindingDB/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640596217933" />
+    <state x="2108" y="49" key="#training_validation_Davis_KIBA" timestamp="1640602433650">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2108" y="49" key="#training_validation_Davis_KIBA/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640602433650" />
+    <state x="2344" y="234" key="FileChooserDialogImpl" timestamp="1640595857042">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="744" y="234" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640593048311" />
+    <state x="2344" y="234" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640595857042" />
+    <state width="1557" height="200" key="GridCell.Tab.0.bottom" timestamp="1640602475767">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="200" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640592074113" />
+    <state width="1557" height="200" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640602475767" />
+    <state width="1557" height="200" key="GridCell.Tab.0.center" timestamp="1640602475767">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="200" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640592074113" />
+    <state width="1557" height="200" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640602475767" />
+    <state width="1557" height="200" key="GridCell.Tab.0.left" timestamp="1640602475766">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="200" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640592074113" />
+    <state width="1557" height="200" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640602475766" />
+    <state width="1557" height="200" key="GridCell.Tab.0.right" timestamp="1640602475767">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="200" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640592074113" />
+    <state width="1557" height="200" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640602475767" />
+    <state x="1725" y="144" key="SettingsEditor" timestamp="1640596311886">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="125" y="144" key="SettingsEditor/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640593113069" />
+    <state x="1725" y="144" key="SettingsEditor/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640596311886" />
+    <state x="1938" y="315" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1640595869499">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="365" y="232" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640593091711" />
+    <state x="1938" y="315" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640595869499" />
+    <state x="979" y="215" width="433" height="539" key="ftp.server.browser" timestamp="1640596082452">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="366" y="162" width="446" height="539" key="ftp.server.browser/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1640593090008" />
+    <state x="979" y="215" width="433" height="539" key="ftp.server.browser/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1640596082452" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GraphDTA_master$predict_with_pretrained_model_BindingDB.coverage" NAME="predict_with_pretrained_model_BindingDB Coverage Results" MODIFIED="1640496170000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$training_cross_validation.coverage" NAME="training_cross_validation Coverage Results" MODIFIED="1640497329807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAG_DTA$training_validation_Davis_KIBA.coverage" NAME="training_validation_Davis_KIBA Coverage Results" MODIFIED="1640602475758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$predict_with_pretrained_model.coverage" NAME="predict_with_pretrained_model Coverage Results" MODIFIED="1640494324043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$training_validation.coverage" NAME="training_validation Coverage Results" MODIFIED="1640497341731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAG_DTA$prepare_data_Human.coverage" NAME="prepare_data_Human Coverage Results" MODIFIED="1640596085843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$prepare_data_Celegans.coverage" NAME="prepare_data_Celegans Coverage Results" MODIFIED="1628228679508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$predict_with_pretrained_model_Davis_KIBA.coverage" NAME="predict_with_pretrained_model_Davis_KIBA Coverage Results" MODIFIED="1640507185179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$prepare_data_5fold.coverage" NAME="prepare_data_5fold Coverage Results" MODIFIED="1599998434662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$training.coverage" NAME="training Coverage Results" MODIFIED="1640508404783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAG_DTA$predict_with_pretrained_model_BindingDB.coverage" NAME="predict_with_pretrained_model_BindingDB Coverage Results" MODIFIED="1640600825613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$prepare_data_Human.coverage" NAME="prepare_data_Human Coverage Results" MODIFIED="1640591051376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAG_DTA$predict_with_pretrained_model_Human.coverage" NAME="predict_with_pretrained_model_Human Coverage Results" MODIFIED="1640596153167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$predict_with_pretrained_model_Human.coverage" NAME="predict_with_pretrained_model_Human Coverage Results" MODIFIED="1640495930208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$prepare_data.coverage" NAME="prepare_data Coverage Results" MODIFIED="1628057515877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$prepare_data_bindingDB.coverage" NAME="prepare_data_bindingDB Coverage Results" MODIFIED="1628211735677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$predict_with_pretrained_model_binary_classification.coverage" NAME="predict_with_pretrained_model_binary_classification Coverage Results" MODIFIED="1640494278974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$training_validation_BindingDB.coverage" NAME="training_validation_BindingDB Coverage Results" MODIFIED="1640509084938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAG_DTA$prepare_data_bindingDB.coverage" NAME="prepare_data_bindingDB Coverage Results" MODIFIED="1640596218014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$training_cross_validation_Human.coverage" NAME="training_cross_validation_Human Coverage Results" MODIFIED="1628256135006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphDTA_master$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1597648213859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
